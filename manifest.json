@@ -1,10 +1,10 @@
 {
-    "name": "facil_count_nouveau",
-    "short_name": "facil_count_nouveau",
+    "name": "FacilCount",
+    "short_name": "FacilCount",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
+    "background_color": "#1e3c72"
+    "theme_color": "#1e3c72",
     "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
